@@ -1,2 +1,11 @@
-# ExtractAthenaLootPackages
-auto extract Athena Loot Packages for make real loot. It's work for all season.
+# How to use?
+
+## first step:
+
+install [NodeJS](https://nodejs.org/en)
+
+## second step:
+
+```js
+npm install fs
+```
