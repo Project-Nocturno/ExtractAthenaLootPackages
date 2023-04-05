@@ -1,0 +1,779 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AthenaLootPackages_Client",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct FortLootPackageData",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "WorldList.AthenaTest.01": {
+        "LootPackageID": "WorldList.AthenaTest",
+        "Weight": 1.0,
+        "Count": 12,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaTest.C0;Item:Ammo.AthenaLight"
+      },
+      "WorldList.AthenaAmmoLarge.01": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 0.5,
+        "Count": 5,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataShells.AthenaAmmoDataShells",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaShells"
+      },
+      "WorldList.AthenaAmmoLarge.02": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 0.5,
+        "Count": 12,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaLight"
+      },
+      "WorldList.AthenaAmmoLarge.03": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 1.0,
+        "Count": 10,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": 1,
+        "MaxWorldLevel": 1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaMedium"
+      },
+      "WorldList.AthenaAmmoLarge.04": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 1.0,
+        "Count": 14,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": 2,
+        "MaxWorldLevel": 2,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaMediumDuos"
+      },
+      "WorldList.AthenaAmmoLarge.05": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 1.0,
+        "Count": 18,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": 3,
+        "MaxWorldLevel": 3,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaMediumSquads"
+      },
+      "WorldList.AthenaAmmoLarge.06": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 0.75,
+        "Count": 6,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaHeavy"
+      },
+      "WorldList.AthenaAmmoLarge.07": {
+        "LootPackageID": "WorldList.AthenaAmmoLarge",
+        "Weight": 0.75,
+        "Count": 2,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AmmoDataRockets.AmmoDataRockets",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaRockets"
+      },
+      "WorldList.AthenaAmmoSmall.01": {
+        "LootPackageID": "WorldList.AthenaAmmoSmall",
+        "Weight": 1.5,
+        "Count": 5,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataShells.AthenaAmmoDataShells",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoSmall.C0;Item:Ammo.AthenaShells"
+      },
+      "WorldList.AthenaAmmoSmall.02": {
+        "LootPackageID": "WorldList.AthenaAmmoSmall",
+        "Weight": 1.5,
+        "Count": 12,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoSmall.C0;Item:Ammo.AthenaLight"
+      },
+      "WorldList.AthenaAmmoSmall.03": {
+        "LootPackageID": "WorldList.AthenaAmmoSmall",
+        "Weight": 1.25,
+        "Count": 10,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoSmall.C0;Item:Ammo.AthenaMedium"
+      },
+      "WorldList.AthenaAmmoSmall.04": {
+        "LootPackageID": "WorldList.AthenaAmmoSmall",
+        "Weight": 0.75,
+        "Count": 6,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoSmall.C0;Item:Ammo.AthenaHeavy"
+      },
+      "WorldList.AthenaAmmoSmall.05": {
+        "LootPackageID": "WorldList.AthenaAmmoSmall",
+        "Weight": 0.5,
+        "Count": 2,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Ammo/AmmoDataRockets.AmmoDataRockets",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaAmmoSmall.C0;Item:Ammo.AthenaRockets"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Common.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Common",
+        "Weight": 1.0,
+        "Count": 3,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Grenade/Athena_Grenade.Athena_Grenade",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Common.C0;Item:Consumable.AthenaGrenade"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Common.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Common",
+        "Weight": 1.0,
+        "Count": 5,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Common.C0;Item:Consumable.AthenaBandage"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Medkit/Athena_Medkit.Athena_Medkit",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.C0;Item:Consumable.AthenaMedKit"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon",
+        "Weight": 1.0,
+        "Count": 3,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/ShieldSmall/Athena_ShieldSmall.Athena_ShieldSmall",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.C0;Item:Consumable.AthenaShieldSmall"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.03": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Traps/TID_ContextTrap_Athena.TID_ContextTrap_Athena",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.C0;Item:TID.ContextTrap.Athena"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Rare.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Rare",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Shields/Athena_Shields.Athena_Shields",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Rare.C0;Item:Consumable.AthenaShield"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Rare.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Rare",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Traps/TID_Floor_Player_Campfire_Athena.TID_Floor_Player_Campfire_Athena",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Rare.C0;Item:TID.Trap.Floor.Player.Campfire"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Rare.03": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Rare",
+        "Weight": 1.0,
+        "Count": 4,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/C4/Athena_C4.Athena_C4",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Rare.C0;Item:Consumable.AthenaC4"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Rare.04": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Rare",
+        "Weight": 1.0,
+        "Count": 3,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/KnockGrenade/Athena_KnockGrenade.Athena_KnockGrenade",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Rare.C0;Item:Consumable.AthenaKnockGrenade"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Epic.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Epic",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/PurpleStuff/Athena_PurpleStuff.Athena_PurpleStuff",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Epic.C0;Item:Consumable.AthenaPurpleStuff"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Epic.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Epic",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Traps/TID_Floor_Player_Launch_Pad_Athena.TID_Floor_Player_Launch_Pad_Athena",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Epic.C0;Item:TID.Trap.Floor.Player.Launch.Pad"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Epic.03": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Epic",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/TowerGrenade/Athena_TowerGrenade.Athena_TowerGrenade",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Epic.C0;Item:Consumable.AthenaTowerGrenade"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Consumables.Legendary.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Consumables.Legendary",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/SuperMedkit/Athena_SuperMedkit.Athena_SuperMedkit",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Legendary.C0;Item:Consumable.AthenaSuperMedKit"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Shells.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Shells",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Common.Shells.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Light.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Light",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_C_Ore_T02.WID_Pistol_AutoHeavySuppressed_Athena_C_Ore_T02",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Common.Light.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.C.Ore.T02"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Common.Medium.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.WID_Shotgun_Standard_Athena_C_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells.C0;Item:WID.Shotgun.Standard.Athena.C.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells.C0;Item:WID.Shotgun.SemiAuto.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Light.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Light",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_UC_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Light.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_UC_Ore_T03.WID_Assault_Auto_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium.C0;Item:WID.Assault.Auto.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_UC_Ore_T03.WID_Assault_SemiAuto_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium.C0;Item:WID.Assault.SemiAuto.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Heavy.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Heavy",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_UC_Ore_T03.WID_Sniper_NoScope_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Heavy.C0;Item:WID.Sniper.NoScope.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_VR_Ore_T03.WID_Shotgun_SemiAuto_Athena_VR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.C0;Item:WID.Shotgun.SemiAuto.Athena.VR.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.C0;Item:WID.Shotgun.Standard.Athena.UC.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Light.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Light",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Light.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.01": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_R_Ore_T03.WID_Assault_Surgical_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.C0;Item:WID.Assault.Surgical.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.02": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_R_Ore_T03.WID_Assault_Auto_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.C0;Item:WID.Assault.Auto.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.03": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_R_Ore_T03.WID_Assault_SemiAuto_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.C0;Item:WID.Assault.SemiAuto.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.04": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_R_Ore_T03.WID_Assault_Surgical_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.C0;Item:WID.Assault.Surgical.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.05": {
+        "LootPackageID": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium",
+        "Weight": 0.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Assault_LMGSAW_Athena_R_Ore_T03.WID_Assault_LMGSAW_Athena_R_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Medium.C0;Item:WID.Assault.LMGSAW.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaDurrrables.03": {
+        "LootPackageID": "WorldList.AthenaDurrrables",
+        "Weight": 1.0,
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/DurrrablesFries/Athena_Durrrables_MovementSpeed.Athena_Durrrables_MovementSpeed",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaDurrrables.C0;Item:Consumable.Durrrable.AthenaMovementSpeed"
+      }
+    }
+  }
+]
