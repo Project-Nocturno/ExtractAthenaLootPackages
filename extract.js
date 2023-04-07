@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-async function extractContenue() {
+async function extractContent() {
 
   const rawData = fs.readFileSync('file.json'); // You can find this (FortniteGame/Content/Items/Datatables/AthenaLootPackages_Client.uasset) (in FModel) and just copy paste there
   const data = JSON.parse(rawData);
@@ -39,4 +39,4 @@ async function extractContenue() {
   });
 }
 
-extractContenue();
+extractContent();
